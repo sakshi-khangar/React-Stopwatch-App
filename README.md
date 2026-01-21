@@ -26,12 +26,29 @@ By working on this project, I learned:
 - Basics of project structure in a React + Vite application
 - How to push a project to GitHub using VS Code terminal
 
-## Conclusion
+## Future Enhancements
+- Display time in HH:MM:SS format
+- Add lap functionality
+- Improve UI with animations
+- Make the app mobile responsive
+- Store stopwatch history
 
+## Use Case
+- Useful for learning React Hooks
+- Can be used as a basic timer application
+- Helpful for beginners practicing React projects
+- Suitable for academic assignments and portfolios
+
+## Key Concepts Used
+- React Functional Components
+- React Hooks (`useState`, `useEffect`, `useRef`)
+- Conditional rendering
+- Event handling in React
+
+## Conclusion
 The React Stopwatch App is a beginner-friendly project that helped me understand
 the core concepts of React Hooks and component-based development.
 It demonstrates how to manage time-based functionality efficiently in React
 while keeping the code clean and readable.
-
 This project strengthened my confidence in building small React applications
 and handling real-time updates using hooks.
